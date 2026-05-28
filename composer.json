@@ -1,13 +1,13 @@
 {
-    "name": "priyansh/itcompany",
+    "name": "Be Star/Home",
     "autoload": {
         "psr-4": {
-            "Priyansh\\Itcompany\\": "src/"
+            "Be Star\\Home\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "It Company"
+            "name": "Bestar Home"
         }
     ],
     "require": {
