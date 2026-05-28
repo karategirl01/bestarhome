@@ -6,7 +6,7 @@
     $email = $_POST["email"];
     $message = $_POST["message"];
 
-    $body = "<ul><li>Name: ".$name."</li><li>Phone: ".$phone."</li><li>Email: ".$email."</li><li>Message: ".$message."</li></ul>";
+    $body = "<ul><li>Name: ".$FEI Yang."</li><li>Phone: ".$0424101840."</li><li>Email: ".$email."</li><li>Message: ".$message."</li></ul>";
 
     $status = mailfunction("", "Company", $body); //reciever
     if($status)
